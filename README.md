@@ -1,4 +1,4 @@
-# nestjs-aws-sdk 🚀
+# nest-aws-sdk 🚀
 
 A simple wrapping layer around the AWS SDK, developed and maintained by [ZSoft](https://www.zsoft.com.tr/), to enable clean dependency injection for NestJS applications.
 
