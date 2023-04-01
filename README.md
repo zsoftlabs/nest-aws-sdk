@@ -4,7 +4,7 @@ A simple wrapping layer around the AWS SDK, developed and maintained by [ZSoft](
 
 ## Overview
 
-At ZSoft, we understand the importance of clean, maintainable code, and the role dependency injection plays in NestJS applications. To make it easier for developers to integrate AWS services into their NestJS projects, we've developed the `nestjs-aws-sdk-wrapper`. This project provides a lightweight and easy-to-use wrapper around the AWS SDK, streamlining the integration process.
+At ZSoft, we understand the importance of clean, maintainable code, and the role dependency injection plays in NestJS applications. To make it easier for developers to integrate AWS services into their NestJS projects, we've developed the `nest-aws-sdk`. This project provides a lightweight and easy-to-use wrapper around the AWS SDK, streamlining the integration process.
 
 ## Features
 
