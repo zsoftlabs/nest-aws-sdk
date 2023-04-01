@@ -14,11 +14,11 @@ At ZSoft, we understand the importance of clean, maintainable code, and the role
 
 ## Getting Started
 
-To get started with the `nestjs-aws-sdk-wrapper`, follow the instructions in the [installation guide](./docs/installation.md).
+To get started with the `nest-aws-sdk`, follow the instructions in the [installation guide](./docs/installation.md).
 
 ## Documentation
 
-For more information on how to use the `nestjs-aws-sdk-wrapper`, please refer to our [documentation](./docs/README.md).
+For more information on how to use the `nest-aws-sdk`, please refer to our [documentation](./docs/README.md).
 
 ## Contributing
 
