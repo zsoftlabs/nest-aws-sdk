@@ -30,7 +30,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Contact
 
-For any questions or inquiries related to the `nestjs-aws-sdk-wrapper`, feel free to reach out to the ZSoft team:
+For any questions or inquiries related to the `nest-aws-sdk`, feel free to reach out to the ZSoft team:
 
 - Email: [opensource@zsoft.com.tr](mailto:opensource@zsoft.com.tr)
 - Website: [https://www.zsoft.com.tr/](https://www.zsoft.com.tr/)
