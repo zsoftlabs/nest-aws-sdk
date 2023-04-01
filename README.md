@@ -22,7 +22,7 @@ For more information on how to use the `nest-aws-sdk`, please refer to our [docu
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to the `nestjs-aws-sdk-wrapper`, please read our [contributing guidelines](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+We welcome contributions from the community! If you'd like to contribute to the `nestjs-aws-sdk`, please read our [contributing guidelines](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
 ## License
 
